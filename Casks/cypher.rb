@@ -1,7 +1,7 @@
 cask "cypher" do
-  version "0.1.0.2007"
-  sha256 "eff910b4fe744a02b2527fffedaf8e1b0ca7fccc01743d3be6d51bef37085f4f"
-  url "https://github.com/kanketsu-jp/cypher-dist/releases/download/cypher-v0.1.0.2007-e105013/Cypher.zip"
+  version "0.1.0.2008"
+  sha256 "ed111882bc9aa971ffd75ffa7ec886cb283e616c52ab65a32554e2acae190dac"
+  url "https://github.com/kanketsu-jp/cypher-dist/releases/download/cypher-v0.1.0.2008-aa6c991/Cypher.zip"
   name "Cypher"
   desc "エージェントを束ねる作業台"
   homepage "https://github.com/kanketsu-jp/cypher-dist"
